@@ -1,0 +1,10 @@
+{
+  "appId": "objectactivities",
+  "apiKey": "25ad095f33ce8a2f15096e3064e5c744cd9bbc3f1e15956f791e8eb599547eb1",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
