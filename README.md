@@ -42,4 +42,4 @@ $ npm install -g stamplay-cli
 ```
 - If your app is in development, you can run it on your local server by entering **stamplay start** in your command line.
 - If your app is in production, you can deploy it live by entering **stamplay deploy** in your command line.
-![alt tag](public/images/query-object-rest-api-micro-repo.png)
+
