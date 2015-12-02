@@ -10,7 +10,7 @@ a starter template for getting an objects activities using the Stamplay Rest API
 
 3) **Establish object**
 - Go to your Stamplay editor and go to the **Data** section. Then go to **Objects**
-- Establish which object(s) in the collection your going to query by looking at it's **_id**. You will search using one of this id.
+- Establish which object in the collection your going to get the activities for by looking at it's **_id**. You will search using one of this id.
 
 4) **Get Activities**
 ```
