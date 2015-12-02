@@ -8,9 +8,9 @@ a starter template for getting an objects activities using the Stamplay Rest API
 - Go to your command line and enter **stamplay init**
 - When prompted, enter your **appID** & **API Key**
 
-3) **Establish query search**
+3) **Establish object**
 - Go to your Stamplay editor and go to the **Data** section. Then go to **Objects**
-- Establish which object(s) in the collection your going to query by looking at it's **attribute**. You will search using one of these attributes.
+- Establish which object(s) in the collection your going to query by looking at it's **_id**. You will search using one of this id.
 
 4) **Get Activities**
 ```
